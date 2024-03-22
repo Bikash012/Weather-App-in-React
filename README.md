@@ -27,3 +27,6 @@ Install dependencies using npm install.
 Run the application using npm start.
 Enter the name of the city you want to check the weather for.
 View the real-time weather information for the specified city.
+
+![vector1](https://github.com/Bikash012/Weather-App-in-React/assets/101698546/83780117-cea6-4dc1-bc90-41dc4288370b)
+
